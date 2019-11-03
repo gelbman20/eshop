@@ -1,0 +1,4 @@
+# Trash are ignored everywhere
+.idea
+*.map
+*.db
